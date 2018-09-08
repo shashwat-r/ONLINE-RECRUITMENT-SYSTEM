@@ -1,2 +1,2 @@
-# ONLINE-RECRUITMENT-SYSTEM
-This is to facilitate development of our project by sharing
+# Online Recruitment System
+A recruitment web portal for candidates and recruiters.
